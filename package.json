@@ -1,0 +1,27 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "Just a Node.js app using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csabe812/node-express-rest-api.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "js"
+  ],
+  "author": "Csaba Fulop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csabe812/node-express-rest-api/issues"
+  },
+  "homepage": "https://github.com/csabe812/node-express-rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
